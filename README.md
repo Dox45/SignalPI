@@ -1,6 +1,6 @@
 # SignalPI
 
-**SignalPI** is an advanced, open-source Python library designed to bring precision and efficiency to signal processing, data analysis, and predictive modeling tasks. Engineered for researchers, data scientists, and developers, SignalPI provides a robust framework for handling complex signal workflows, applying machine learning to time-series data, and creating insightful analytics with ease.
+**SignalPI** is an advanced, open-source Python library and API designed to bring precision and efficiency to signal processing, data analysis, and predictive modeling tasks. Engineered for researchers, data scientists, and developers, SignalPI provides a robust framework for handling complex signal workflows, applying machine learning to time-series data, and creating insightful analytics with ease.
 
 ## Key Features
 
